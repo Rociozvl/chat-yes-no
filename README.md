@@ -1,4 +1,5 @@
 Hola este es mi proyecto de chat responde de forma aleatoria con un gif
 
 
-![image](https://github.com/user-attachments/assets/9ebcc01a-105a-4afa-9079-0efe0b7e47c1)
+
+![image](https://github.com/user-attachments/assets/206a57d2-8493-4b90-88c4-aab9ed053eff)
